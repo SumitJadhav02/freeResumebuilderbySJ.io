@@ -1,0 +1,17 @@
+#sj {
+    margin-left: 500px;
+    color: black;
+}
+
+td .skill {
+    color: #000;
+    align-items: center;
+}
+
+#pre {
+    background: #000;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
